@@ -6,7 +6,7 @@ Meu portifólio de projetos de Data Science.
   <img src="https://github.com/cuglercarlos/Carlos-Cugler/blob/main/image.png" >
 </p>
 
-# Carlos Melo
+# Carlos Cugler (Portifólio em construção! As informações abaixosserão utilizadas  como referência)
 <sub>*Lead Data Scientist* at Space Operations Center</sub>
 
 As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
